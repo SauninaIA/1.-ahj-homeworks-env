@@ -1,0 +1,1 @@
+![CI](https://github.com/SauninaIA/1.-ahj-homeworks-env/actions/workflows/web.yml/badge.svg)
